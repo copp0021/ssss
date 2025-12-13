@@ -5,6 +5,7 @@ local codes = {
     "400K!",
     "200K!",
     "SORRYFORSHUTDOWN",
+    "FORG!",
     "100KLIKES",
     "100K!",
     "20KLIKES",
@@ -35,5 +36,6 @@ for _, code in ipairs(codes) do
 
     task.wait(0.3) -- หน่วงนิดหน่อยกันสแปม
 end
+
 
 
